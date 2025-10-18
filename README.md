@@ -1,1 +1,1 @@
-# Fluppy bird
+# Flappy bird
